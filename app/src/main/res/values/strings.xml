@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+    <string-array name="college">
+        <item></item>
+        <item>QIS</item>
+        <item>RISE</item>
+        <item>PACE</item>
+    </string-array>
+    <string-array name="QIS_BRANCH">
+        <item></item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+    <string-array name="RISE_BRANCH">
+        <item></item>
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+    <string-array name="PACE_BRANCH">
+        <item></item>
+        <item>IT</item>
+        <item>MECH</item>
+        <item>ECE</item>
+        <item>EEE</item>
+    </string-array>
+</resources>
